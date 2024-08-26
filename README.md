@@ -6,8 +6,11 @@ Employees are the backbone of any organization, and the success of a company lar
 
 
 However, employee attrition—the rate at which employees leave their jobs—can negatively impact an organization's financial performance, productivity, and overall efficiency. While some level of attrition is inevitable as employees may leave for various reasons, such as seeking better opportunities, dealing with mental health issues, experiencing burnout from excessive working hours, or working in a toxic environment or under poor management, it becomes a major concern when it surpasses a certain threshold. A high attrition rate, especially when new employees leave within the first few years, may indicate underlying issues with the company culture or management practices.
+
 To address employee attrition effectively, it is crucial to understand the factors driving employees to leave. By identifying these reasons, organizations can implement strategies to improve retention and foster a more supportive and engaging work environment.
+
 To explore the correlations between various factors and employee attrition, we utilized the IBM Employee Attrition dataset to analyze and visualize significant patterns and trends. We employed libraries like Matplotlib and Seaborn for data visualization.
+
 Furthermore, we trained multiple machine learning models to predict whether an employee would leave the organization based on several input features related to attrition factors. We then evaluated the performance of these models using various metrics, such as precision, recall, and F1-score, to determine their effectiveness in predicting employee turnover.
 
 ## Data
